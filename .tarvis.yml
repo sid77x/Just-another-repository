@@ -1,0 +1,7 @@
+os: windows
+language: 
+  - go
+  - java
+  - python
+compiler: javac
+
